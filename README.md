@@ -153,13 +153,13 @@ ML Project Implementation/
 ## 📸 Screenshots
 
 ### Landing Page
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/495dbf4c-d746-47bd-9b14-d4bbdb014805" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-17 204930" src="https://github.com/user-attachments/assets/a58726e2-9b20-4cea-88d8-d3ec8758c977" />
 
 ### Prediction Form
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/d8c991c4-a07c-4135-b2d7-6144388b9493" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-17 205242" src="https://github.com/user-attachments/assets/067b1d45-631f-43a3-90b6-e18b3649bc52" />
 
 ### Results
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/48800f2a-346f-4b55-8565-d07fabccf715" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-17 205147" src="https://github.com/user-attachments/assets/391ae5cc-f97e-4b98-8088-e58338da020a" />
 
 
 ## 🤝 Contributing
