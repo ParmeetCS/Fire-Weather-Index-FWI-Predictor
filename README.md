@@ -18,7 +18,6 @@ A machine learning web application that predicts the Fire Weather Index (FWI) us
 - [API Endpoints](#api-endpoints)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
