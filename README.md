@@ -152,7 +152,7 @@ ML Project Implementation/
 ## 📸 Screenshots
 
 ### Landing Page
-<img width="1920" height="1020" alt="Screenshot 2026-01-17 204930" src="https://github.com/user-attachments/assets/a58726e2-9b20-4cea-88d8-d3ec8758c977" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-19 174223" src="https://github.com/user-attachments/assets/8b58627b-60f7-4c22-bf08-0b786e4b3eab" />
 
 ### Prediction Form
 <img width="1920" height="1020" alt="Screenshot 2026-01-17 205242" src="https://github.com/user-attachments/assets/067b1d45-631f-43a3-90b6-e18b3649bc52" />
@@ -179,7 +179,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Flask framework
 
 ---
-
-<p align="center">
-  Made with ❤️ for fire safety and prevention
-</p>
